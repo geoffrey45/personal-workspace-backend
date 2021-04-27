@@ -1,0 +1,6 @@
+export MODE="dev" #prod 
+export MONGO_USER="{}"
+export MONGO_PSWD="{}"
+export JWT_SECRET_KEY="{}"
+
+python manage.py
